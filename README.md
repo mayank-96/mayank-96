@@ -1,4 +1,5 @@
 ## Hey There !
+ <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400"/>
 <a href="https://www.instagram.com/mayankp06__/">
   <img align="left" alt="Mayank's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -20,8 +21,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 if you have opportunity where i can contribute and help your organization to grow. let's connect. 
 
-
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400"/>
   
   **Tech stack:**  <br /><br />
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
