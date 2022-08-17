@@ -37,6 +37,4 @@ if you have opportunity where i can contribute and help your organization to gro
 
 <br />
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=mayank-96&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="abhisheknaiidu" /> </p>
-
-<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-96&layout=compact&text_color=daf7dc&bg_color=151515" alt="abhisheknaiidu" /> </p>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=mayank-96&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="mayankpagar" /> </p>
