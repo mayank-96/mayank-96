@@ -15,7 +15,7 @@
 <br />
 <br />
 
-namastey i'm mayank, a passionate self-taught full stack developer and a freelance software engineer from india, having experience in developing range of web and native applications. i'm working as a software development engineer at [geekyants](https://geekyants.com/). my passion for software lies with dreaming up ideas and making them come true with elegant pixel-perfect interfaces. i take great care in the experience, architecture, and code quality of the things i build.
+namastey i'm mayank, a passionate self-taught freelance developer from india, having experience in developing range of web and native applications. i'm working as a software development engineer at [geekyants](https://geekyants.com/). my passion for software lies with dreaming up ideas and making them come true with elegant pixel-perfect interfaces. i take great care in the experience, architecture, and code quality of the things i build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. currently working on [nativebase](https://nativebase.io/) project, as a core developer.
 
