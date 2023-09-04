@@ -1,5 +1,5 @@
 ## Hey There !
-<!--  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400"/> -->
+<!--  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400"/> 
 <a href="https://www.instagram.com/mayankp06__/">
   <img align="left" alt="Mayank's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -8,7 +8,7 @@
 </a>
 <a href="https://www.linkedin.com/in/mayank-pagar/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a> -->
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=mayank-96.mayank-96) -->
 
